@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # nlw eSports
 
 > Trilha Explorer
@@ -13,3 +14,8 @@ projeto constrúido no evento Next Level Weel da Rocketseat
 - htlm
 - css
 - git e Github
+=======
+
+
+
+>>>>>>> 0f44d2d9ba526d1159c42a9640aaec438753f51f
