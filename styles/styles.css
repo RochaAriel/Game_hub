@@ -9,11 +9,11 @@ ul{
 }
 
 body{
-    background-image: url(./assets/bg.jpg);
+    background-image: url(./assets/tudor.jpg);
     background-position: top center;
     background-size: 100% auto;
     background-repeat:no-repeat ;
-    background-color: #121214;
+    background-color: #111127;
 }
 body *{
     font-family: 'inter', 'sans-serif';
@@ -51,8 +51,6 @@ header{
 header div:hover{
     transform: scale(1.1);
 }
-
-
 
 
 main{
@@ -118,9 +116,10 @@ section ul li:hover{
 
     border-radius: 50%;
     width: 70px;
-    border: 1px solid #443e54;
+    border: 1px solid #412491;
 
 }
+
 
 /* animação */
 
