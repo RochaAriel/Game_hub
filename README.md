@@ -1,7 +1,7 @@
 
 # Meu menu de portifolio
 
-[clique aqui para acessar](https://rochaariel.github.io/nlw-esports-week/)
+[clique aqui para acessar](https://rochaariel.github.io/Meu-Portifolio/)
 ## Tecnologias 
 
 - htlm
