@@ -9,11 +9,11 @@ ul{
 }
 
 body{
-    background-image: url(./assets/tudor.jpg);
-    background-position: top center;
-    background-size: 100% auto;
+    background-image: url(./assets/fundo.png);
+    background-position: center;
+    background-size: 99.9% auto;
     background-repeat:no-repeat ;
-    background-color: #111127;
+    background-color: #030303;
 }
 body *{
     font-family: 'inter', 'sans-serif';
@@ -116,7 +116,6 @@ section ul li:hover{
 
     border-radius: 50%;
     width: 70px;
-    border: 1px solid #412491;
 
 }
 
